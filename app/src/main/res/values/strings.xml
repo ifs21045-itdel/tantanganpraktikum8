@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PAM Praktikum 8</string>
+    <string name="info_ikon_chat">Ikon Chat</string>
+    <string-array name="chat_name">
+        <item>Riskia Naomi Sitorus</item>
+        <item>Lisna Yulan Simbolon</item>
+        <item>Sahat Simbbolon</item>
+        <item>Ricky Simangunsong</item>
+        <item>Mama</item>
+        <item>Bapak</item>
+        <item>Juni Simbolon</item>
+    </string-array>
+<string-array name="chat_ikon">
+        <item>@drawable/rrr</item>
+        <item>@drawable/lisna</item>
+        <item>@drawable/sahat</item>
+        <item>@drawable/ricku</item>
+        <item>@drawable/mama</item>
+    <item>@drawable/bapak</item>
+    <item>@drawable/juni</item>
+</string-array>
+</resources>
