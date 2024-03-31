@@ -14,14 +14,14 @@
         tools:ignore="UseCompoundDrawables">
 
         <ImageView
-            android:id="@+id/ivItemFamili"
+            android:id="@+id/ivItemChat"
             android:layout_width="87dp"
             android:layout_height="85dp"
             android:contentDescription="@string/info_ikon_chat"
             app:srcCompat="@drawable/chat"
             tools:ignore="ImageContrastCheck" />
         <TextView
-            android:id="@+id/tvItemFamili"
+            android:id="@+id/tvItemChat"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_marginStart="10dp"

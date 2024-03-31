@@ -1,27 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/navigation_status"
         android:icon="@drawable/status"
-        android:title="Status"
- />
-    <item
-        android:id="@+id/navigation_panggilan"
-        android:icon="@drawable/panggilan"
-        android:title="Panggilan"
- />
-    <item
-        android:id="@+id/navigation_komunitas"
-        android:icon="@drawable/komunitas"
-        android:title="Komunitas"
- />
+        android:title="Status" />
     <item
         android:id="@+id/navigation_chat"
         android:icon="@drawable/chat"
-        android:title="Chat"
-     />
+        android:title="Chat" />
     <item
-        android:id="@+id/navigation_settings"
+        android:id="@+id/navigation_komunitas"
+        android:icon="@drawable/komm"
+        android:title="Komunitas" />
+    <item
+        android:id="@+id/navigation_panggilan"
+        android:icon="@drawable/pnggil"
+        android:title="Panggilan" />
+    <item
+        android:id="@+id/navigation_pengaturan"
         android:icon="@drawable/settings"
-        android:title="Pengaturan"
- />
+        android:title="Settings" />
 </menu>
